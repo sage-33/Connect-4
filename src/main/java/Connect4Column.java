@@ -74,6 +74,6 @@ public class Connect4Column {
      * @return the number of rows in the column.
      */
     public int getRowCount() {
-        return slots.length;
-    }
+		return slots.length;
+	}
 }
